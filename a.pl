@@ -1,4 +1,6 @@
 #!/usr/bin/perl 
+# Coded By : DeMoN
+# Site : Guardiran.org
 
 use URI::URL;
 use LWP::UserAgent;
