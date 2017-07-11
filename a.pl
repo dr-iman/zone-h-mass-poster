@@ -1,5 +1,5 @@
 #!/usr/bin/perl 
-# Coded By : DeMoN
+# Coded By : DR-IMAN
 # Site : Guardiran.org
 
 use URI::URL;
