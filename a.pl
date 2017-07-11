@@ -59,7 +59,7 @@ print TEXT "\n$tofuck   =>  Posted !!\n\n";
 close (TEXT);
 print colored ("Wait",'white on_red'),"\n";
                                 $dmn= $tofuck;
-                                $def="dr-iman";
+                                $def="Guardiran Security Team";
                                 $zn="http://zone-h.org/notify/single";
                                 $lwp=LWP::UserAgent->new;
                                 $res=$lwp  -> post($zn,[
